@@ -1,4 +1,3 @@
-import { stat } from 'fs';
 import { AppState } from '../app.state';
 import { Card } from '../models/card';
 import * as CardActions from './../actions/card.action';
